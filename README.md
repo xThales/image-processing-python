@@ -1,2 +1,2 @@
-# image-processing
-A simple program that cartoonifies an image using python.
+# image-processing-python
+A collection of image processing algorithms implemented in python. 
